@@ -1,4 +1,8 @@
 theme: jekyll-theme-cayman
+markdown: karmdown
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
 plugins:
   - jekyll-relative-links
 relative_links:
@@ -6,4 +10,3 @@ relative_links:
   collections: true
 include:
   - README.md
-markdown:karmdown
