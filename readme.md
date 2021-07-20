@@ -9,3 +9,7 @@ Site made with :heart: for Brittany
 ## Video
 
 [waterfall-river-nature-water-22589](https://pixabay.com/videos/waterfall-river-nature-water-22589/) by [User engin_akyurt-3656355](https://pixabay.com/users/engin_akyurt-3656355/)
+
+## Icon
+
+[play by Mike Rowe from the Noun Project]()
